@@ -12,6 +12,7 @@ function figures(h, w) {
         res = h * w
         console.log(`Площадь квадрата равна ${res}`);
     }
+    
     return
 }
 
